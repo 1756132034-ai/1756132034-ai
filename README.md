@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...111
-- 🌱 I’m currently learning ...111
+- 🔭 I’m currently working on Hainan University
+- 🌱 I’m currently learning c++,python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
